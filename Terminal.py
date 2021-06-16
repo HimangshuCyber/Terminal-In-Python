@@ -146,11 +146,6 @@ while True:
 
                                                                         for x in range(len(wifi_list)):
                                                                                 print(wifi_list[x]) 
-         if code == 'auto-click':
-                if messagebox.askyesno('Hey there!', "Are you sure?") == True:
-                                call(["C:/Users/Nilutpal/Downloads/AutoClickerShocker-Setup.exe"])
-         if code == 'python3 HOIC.exe':
-                call(["C:/Users/Nilutpal/Desktop/hoic2.1.exe"])
          if code == 'break':
                 break
          if code == 'rap':
